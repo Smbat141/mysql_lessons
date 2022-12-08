@@ -1,0 +1,165 @@
+DB Intro
+SQL Intro
+#####################################################################
+create db
+drop db
+create table
+drop table
+Exists
+
+alter table
+	1. add column
+	2. drop column
+	3. rename column name TO first_name
+	4. rename table name TO first_name
+	5. modify phone str
+	
+insert into
+
+INSERT INTO Customers (CustomerName, ContactName, Address, City, PostalCode, Country)
+VALUES ('Cardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Norway');
+
+#####################################################################
+Data Types
+
+char
+varchar
+text
+byte
+enum
+#####################################################################
+all by default signed
+
+tinyint
+smallint
+mediumint
+bigint
+int(integer)
+float
+bool
+#####################################################################
+date
+datetime
+timestamp
+time
+year
+DEFAULT CURRENT_TIMESTAMP
+#####################################################################
+create if not exist
+drop if exist
+isnert into without columns
+#####################################################################
+NOT NULL - Ensures that a column cannot have a NULL value
+UNIQUE - Ensures that all values in a column are different
+CHECK - Ensures that the values in a column satisfies a specific condition
+DEFAULT - Sets a default value for a column if no value is specified
+CURRENT_DATE():
+ALTER City SET DEFAULT 'Sandnes';
+#####################################################################
+SQL Select
+SQL Select Distinct
+SQL Where
+#################################################################### 
+SQL And Or Not
+SQL In, not in
+SQL Between, not between, between with string
+SQL where Null Values
+SQL Like, Wildcards
+####################################################################
+SQL Order By
+Case
+SQL Aliases
+###################################################################
+functions
+Count
+Min, on stiring
+Max, on string
+Avg
+Sum
+####################################################################
+round
+ceiling
+rand
+########################################
+lower
+upper
+concat
+substring, substr, mid
+reverse
+replace
+########################################
+current_timestamp
+curdate
+current_time
+
+date
+day
+hour
+minute
+second
+
+month
+monthname
+
+week
+weekday
+
+year
+yearweak
+################################################################### 
+with case
+	current_timestamp 
+	curdate
+	current_time
+
+################################################################### 
+SQL Group By
+group by multiple columns
+SQL Having
+####################################################################
+SQL Update
+SQL Delete
+####################################################################
+Update same field + new thing
+#####################################################################
+Limit, offset - pagination
+subquery
+Any 
+All
+#########################################################################
+PRIMARY KEY - A combination of a NOT NULL and UNIQUE. Uniquely identifies each row in a table
+AUTO_INCREMENT
+########################################################################
+CREATE INDEX index_name ON table_name (column1, column2, ...);
+DROP INDEX index_name ON table_name
+CREATE UNIQUE INDEX index_name ON table_name (column1, column2, ...);
+#########################################################################
+SQL Union
+SQL Left Join
+SQL Right Join
+SQL Inner Join
+cross join - cartesian product
+SQL Self Join
+
+one to one
+one to many
+many to many
+
+
+select, where, orderby on joins
+FOREIGN KEY - Prevents actions that would destroy links between tables
+######################################################################
+SQL Select Into
+SQL Insert Into Select
+SQL Stored Procedures
+#####################################################################
+transaction
+#####################################################################
+variables
+regex?
+engines
+SQL Null Functions?
+injection?
+#####################################################################
+exercise how to create table structures that related one with each other
+#####################################################################
