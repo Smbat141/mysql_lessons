@@ -163,3 +163,71 @@ injection?
 #####################################################################
 exercise how to create table structures that related one with each other
 #####################################################################
+
+
+###############################################
+gtnel employeenerin voronq last_name chunen
+gtnel productnerin voronc qanak@ poqr e 5-ic
+cuyc tal furniture-nerum inch anunner kan(krknvoxner@ hanel)
+
+gtnel employeenerin voronc anunner@ verjanum en kam "a" ov kam "m" ov
+gtnel bulkiner@, macunner@,cruasanner@  voronc gin@ kara lini 4-ic minchev 7 dram
+
+###############################################
+cuyc tal bolor employeenerin bayc skzbic nranc ovqer aveli shut en asxatanqi ancel
+
+cuyc tal employeeneri anun, azganunner@ u nor column(anuni_erkarutyun) vortex cuyc ktanq "anuni erkarutyun@ mec e 4-c" kam "anuni erkarutyun@ poqr e 4-ic"
+research petqa anes te vonc karas et erkarutyun@ stuges ))
+
+###############################################
+1. cuyc tal qani product unenq voronc anun@ sksum e A tarov
+
+
+2. repeat function@  research(es ara vor hajordin petqa galu :)
+
+3. cuyc tal  bolor employinneri
+   first_name-i arajin tar@, is mnacac@ kpoxarinenq *-ov
+
+orinak 
+  Aram - A***
+  Hasmik - H*****
+  
+  *-eri qanak@ petqa hamapatsaxan lini irakanneri qanakin
+  
+4. hajord coulumn-ov cuyc tal iranc yndunman amisner@(amisneri anunnerov)
+
+
+###############################################
+1. cucy tal companiannerin,inchqan product enq stanum amen mekic, bayc
+   voronc veradarceri qanak@ 9-a u avel
+
+2. having - research(hajord dasi temanerica)
+
+###############################################
+1.  sarqel nor table shop-in verabervox(2-3 column-ov),
+  avlacnel mi qani row u jnjel bolor rower@ mek query-ov
+  
+2.  lracnel productneri u furnitureneri data-n vortex kan null arjqner
+
+3.   poxel(update) bolor eployinneri anun@ reverse arac(es es dzev@ chem cuyc tvel)
+
+###############################################
+1. gtnel bolor productnerin voronc sold count@ havasar e priceri yndhanur gumarin
+  
+2. cuyc tal 1-in query-i menak arajin 4 producnterin
+
+###############################################
+1. productneri companianer@ texapoxel urish table(petqa arden joinerov gtnenq companianerin)
+
+2. cuyc tal productneri name@, companian u categorianner@
+
+###############################################
+1. update anel prodcunteri bolor country_id-ner@(random countriner karas dnes)
+
+2. cuyc tal en countriner@ vortex artadrvum en katnamterqner
+
+###############################################
+1. stexcel table spices(karas tarqmanes :) vortex klinen pahvac producneri baxadrutyunner
+  orinak ` kat, alyur, pesok, chokolade ...
+  
+2. kapel amen mi product@ ira spice-i het(aysinqn amen mi product kara baxkacac lini tarber baneric, u hakarak@j)
